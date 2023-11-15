@@ -1,2 +1,2 @@
-# My-Project
-this is portfolio project
+# My-Projects
+These are projects for my portfolio.
